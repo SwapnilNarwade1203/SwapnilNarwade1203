@@ -22,33 +22,112 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Airbnb Snowflake dbt Pipeline</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnilNarwade1203/Airbnb_Snowflake_DBT_Data_Engineer_Project" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+      <p align="center">
+        End-to-end <strong>analytics engineering pipeline</strong> on Airbnb data — built with dbt models, Snowflake warehouse, staging → marts architecture.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌊 AWS S3 → Snowflake Pipeline</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnilNarwade1203/snowflake-aws-s3-data-ingestion-pipeline" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+      <p align="center">
+        Production-ready <strong>cloud data ingestion pipeline</strong> using Storage Integration, External Stage & COPY INTO with SQL Analysis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
 
-<!-- Row 1 — Top 2 most impressive -->
-<a href="https://github.com/SwapnilNarwade1203/Airbnb_Snowflake_DBT_Data_Engineer_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=Airbnb_Snowflake_DBT_Data_Engineer_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
-</a>
-<a href="https://github.com/SwapnilNarwade1203/snowflake-aws-s3-data-ingestion-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=snowflake-aws-s3-data-ingestion-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
-</a>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 CareerAI Resume Analyzer</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnilNarwade1203/CarrerAI-and-resume-analyzer" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>AI-powered resume analysis</strong> tool that provides career guidance, skill gap detection and job match scoring.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/AI%2FML-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-A78BFA?style=flat-square&logo=spacy&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 E-Commerce Data Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnilNarwade1203/E-Commerce-Data-Analysis" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+      <p align="center">
+        Deep <strong>exploratory data analysis</strong> on e-commerce datasets — customer behavior, sales trends & visual insights.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
 
-<!-- Row 2 -->
-<a href="https://github.com/SwapnilNarwade1203/CarrerAI-and-resume-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=CarrerAI-and-resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
-</a>
-<a href="https://github.com/SwapnilNarwade1203/E-Commerce-Data-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=E-Commerce-Data-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
-</a>
-
-<!-- Row 3 -->
-<a href="https://github.com/SwapnilNarwade1203/HealthCare-Dashboard-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=HealthCare-Dashboard-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
-</a>
-<a href="https://github.com/SwapnilNarwade1203/placement-cell-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=placement-cell-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
-</a>
-
-</div>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Healthcare Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnilNarwade1203/HealthCare-Dashboard-main" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Interactive analytics dashboard</strong> for healthcare data — patient metrics, trends and KPI visualizations.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Data%20Viz-34D399?style=flat-square&logo=chartdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dashboard-6AD3F7?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Analytics-A78BFA?style=flat-square&logo=googleanalytics&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Placement Cell Website</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnilNarwade1203/placement-cell-website" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </div>
+      <p align="center">
+        Full-stack <strong>campus placement management platform</strong> — student profiles, company listings & application tracking.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
