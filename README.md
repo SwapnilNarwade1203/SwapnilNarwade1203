@@ -20,18 +20,33 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| [🏠 Airbnb Snowflake dbt Project](https://github.com/SwapnilNarwade1203/Airbnb_Snowflake_DBT_Data_Engineer_Project) | End-to-end analytics engineering pipeline on Airbnb data using dbt models & Snowflake | `Snowflake` `dbt` `SQL` |
-| [🌊 AWS S3 → Snowflake Pipeline](https://github.com/SwapnilNarwade1203/snowflake-aws-s3-data-ingestion-pipeline) | Production-ready data ingestion pipeline using Storage Integration, External Stage & COPY INTO | `AWS S3` `Snowflake` `SQL` |
-| [🤖 CareerAI Resume Analyzer](https://github.com/SwapnilNarwade1203/CarrerAI-and-resume-analyzer) | AI-powered resume analysis and career guidance application | `Python` `AI/ML` |
-| [🛒 E-Commerce Data Analysis](https://github.com/SwapnilNarwade1203/E-Commerce-Data-Analysis) | Exploratory data analysis on e-commerce datasets with visual insights | `Python` `Pandas` `Jupyter` |
-| [🏥 Healthcare Dashboard](https://github.com/SwapnilNarwade1203/HealthCare-Dashboard-main) | Interactive healthcare analytics dashboard | `Data Viz` `Dashboard` |
-| [🎓 Placement Cell Website](https://github.com/SwapnilNarwade1203/placement-cell-website) | Full-stack web platform for managing campus placements | `PHP` `MySQL` `HTML/CSS` |
+<!-- Row 1 — Top 2 most impressive -->
+<a href="https://github.com/SwapnilNarwade1203/Airbnb_Snowflake_DBT_Data_Engineer_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=Airbnb_Snowflake_DBT_Data_Engineer_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
+</a>
+<a href="https://github.com/SwapnilNarwade1203/snowflake-aws-s3-data-ingestion-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=snowflake-aws-s3-data-ingestion-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
+</a>
+
+<!-- Row 2 -->
+<a href="https://github.com/SwapnilNarwade1203/CarrerAI-and-resume-analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=CarrerAI-and-resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
+</a>
+<a href="https://github.com/SwapnilNarwade1203/E-Commerce-Data-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=E-Commerce-Data-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
+</a>
+
+<!-- Row 3 -->
+<a href="https://github.com/SwapnilNarwade1203/HealthCare-Dashboard-main">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=HealthCare-Dashboard-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
+</a>
+<a href="https://github.com/SwapnilNarwade1203/placement-cell-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNarwade1203&repo=placement-cell-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4" />
+</a>
 
 </div>
 
@@ -54,7 +69,7 @@ swapnil = {
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
