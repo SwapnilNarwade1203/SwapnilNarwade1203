@@ -20,6 +20,23 @@
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+
+| 🏗️ Project | 📝 Description | 🛠️ Stack |
+|---|---|---|
+| [🏠 Airbnb Snowflake dbt Project](https://github.com/SwapnilNarwade1203/Airbnb_Snowflake_DBT_Data_Engineer_Project) | End-to-end analytics engineering pipeline on Airbnb data using dbt models & Snowflake | `Snowflake` `dbt` `SQL` |
+| [🌊 AWS S3 → Snowflake Pipeline](https://github.com/SwapnilNarwade1203/snowflake-aws-s3-data-ingestion-pipeline) | Production-ready data ingestion pipeline using Storage Integration, External Stage & COPY INTO | `AWS S3` `Snowflake` `SQL` |
+| [🤖 CareerAI Resume Analyzer](https://github.com/SwapnilNarwade1203/CarrerAI-and-resume-analyzer) | AI-powered resume analysis and career guidance application | `Python` `AI/ML` |
+| [🛒 E-Commerce Data Analysis](https://github.com/SwapnilNarwade1203/E-Commerce-Data-Analysis) | Exploratory data analysis on e-commerce datasets with visual insights | `Python` `Pandas` `Jupyter` |
+| [🏥 Healthcare Dashboard](https://github.com/SwapnilNarwade1203/HealthCare-Dashboard-main) | Interactive healthcare analytics dashboard | `Data Viz` `Dashboard` |
+| [🎓 Placement Cell Website](https://github.com/SwapnilNarwade1203/placement-cell-website) | Full-stack web platform for managing campus placements | `PHP` `MySQL` `HTML/CSS` |
+
+</div>
+
+---
+
 ## 🙋‍♂️ About Me
 
 ```python
@@ -71,23 +88,6 @@ swapnil = {
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| 🏗️ Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| [🏠 Airbnb Snowflake dbt Project](https://github.com/SwapnilNarwade1203/Airbnb_Snowflake_DBT_Data_Engineer_Project) | End-to-end analytics engineering pipeline on Airbnb data using dbt models & Snowflake | `Snowflake` `dbt` `SQL` |
-| [🌊 AWS S3 → Snowflake Pipeline](https://github.com/SwapnilNarwade1203/snowflake-aws-s3-data-ingestion-pipeline) | Production-ready data ingestion pipeline using Storage Integration, External Stage & COPY INTO | `AWS S3` `Snowflake` `SQL` |
-| [🤖 CareerAI Resume Analyzer](https://github.com/SwapnilNarwade1203/CarrerAI-and-resume-analyzer) | AI-powered resume analysis and career guidance application | `Python` `AI/ML` |
-| [🛒 E-Commerce Data Analysis](https://github.com/SwapnilNarwade1203/E-Commerce-Data-Analysis) | Exploratory data analysis on e-commerce datasets with visual insights | `Python` `Pandas` `Jupyter` |
-| [🏥 Healthcare Dashboard](https://github.com/SwapnilNarwade1203/HealthCare-Dashboard-main) | Interactive healthcare analytics dashboard | `Data Viz` `Dashboard` |
-| [🎓 Placement Cell Website](https://github.com/SwapnilNarwade1203/placement-cell-website) | Full-stack web platform for managing campus placements | `PHP` `MySQL` `HTML/CSS` |
 
 </div>
 
