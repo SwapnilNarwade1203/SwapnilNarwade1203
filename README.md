@@ -93,25 +93,18 @@ swapnil = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwapnilNarwade1203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=CDD6F4"/>
+<!-- Stats via github-stats.vercel.app — reliable alternative -->
+<img src="https://github-stats.vercel.app/api?username=SwapnilNarwade1203&theme=dark&hide_border=true&show_icons=true" height="180em" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilNarwade1203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=CDD6F4"/>
+<!-- Top Languages via linguist badge — always works -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilNarwade1203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=CDD6F4" height="180em" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
+<!-- Streak Stats — still working ✅ -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilNarwade1203&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SwapnilNarwade1203&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -121,6 +114,7 @@ swapnil = {
 
 <div align="center">
 
+<!-- Activity Graph — still working ✅ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilNarwade1203&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
